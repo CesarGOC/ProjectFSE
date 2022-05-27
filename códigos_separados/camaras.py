@@ -1,3 +1,6 @@
+#
+##author: Guadarrama Ortega César Alejandro
+#
 import cv2
 import time
 

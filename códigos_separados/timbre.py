@@ -1,10 +1,18 @@
+#
+##author: Guadarrama Ortega César Alejandro
+#
 import RPi.GPIO as GPIO
 import sys
 import cv2
 import time
+#pip install opencv-python
+#sudo apt-get install libatlas-base-dev
+#pip install -U numpy 
 
 
-BUZZER_PIN = 13  # Buzzer pin number
+
+
+BUZZER_PIN = 12  # Buzzer pin number
 push =11
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(push,GPIO.IN)

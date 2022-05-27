@@ -1,3 +1,6 @@
+#
+##author: Guadarrama Ortega César Alejandro
+#
 import RPi.GPIO as GPIO
 import time
 
