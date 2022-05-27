@@ -12,4 +12,4 @@ Se puede descargar el proyecto completo clonándolo a través de línea de coman
 - La carpeta de códigos web server contiene el proyecto final donde se implementa el servidor web web_smart_home.py.
 - El plano de la maqueta se encuentra en su respectiva carpeta.
 - Los videos de las cámaras deben estar en la misma carpeta de ejecución de cualquiera de las dos versiones de la smart_home.
-- Finalmente, la carpeta de esquemáticos y diagramas se encentran la forma en como se conectan los componentes electrónicos por separado.
+- Finalmente, la carpeta de esquemáticos y diagramas, se encentra la forma en como se conectan los componentes electrónicos por separado.
