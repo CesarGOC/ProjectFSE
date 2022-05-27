@@ -1,4 +1,4 @@
-#Proyecto Final – Smart Home
+Proyecto Final – Smart Home
 Asignatura: Fundamentos de Sistemas Embebidos
 Profesor: Mauricio Matamoros 
 Alumno: Guadarrama Ortega César Alejandro
